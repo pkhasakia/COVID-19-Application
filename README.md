@@ -1,8 +1,2 @@
-# Mobile-Development-Final-Project
+# Mobile-Development-Final-Project - COVID-19 App
 
-# Group members:
-
-- Omair Farooqui (100621504)
-- Sunil Tumkur (100620430)
-- Vraj Shah (100658669)
-- Preet Khasakia (100653168)
