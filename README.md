@@ -9,6 +9,7 @@
 - This page shows the global statistics for COVID-19. 
 - If the “Map” button is clicked, it takes the user into the maps activity where the map of the entire world is shown. 
 - If the “Search” button is clicked, it takes the user into the search activity where the user can search for a specific location. 
+
 ![image](https://user-images.githubusercontent.com/44883269/103841118-e12f7b80-5060-11eb-9029-46f8deb85f00.png)
 
 ## Google Maps Page
